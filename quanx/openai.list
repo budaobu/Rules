@@ -1,5 +1,5 @@
 # ChatGPT
-host-suffix, http://openai.com, OPENAI
-host-suffix, http://openaiapi-site.azureedge.net, OPENAI
-host-suffix, http://identrust.com, OPENAI
-host-suffix, http://auth0.com, OPENAI
+host-suffix, openai.com, OPENAI
+host-suffix, openaiapi-site.azureedge.net, OPENAI
+host-suffix, identrust.com, OPENAI
+host-suffix, auth0.com, OPENAI
