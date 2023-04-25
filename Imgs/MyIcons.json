@@ -1,1 +1,6 @@
-{"name":"My icons","icons":[{"name":"OpenAI.png","url":"https://raw.githubusercontent.com/budaobu/Rules/master/Imgs/openai.png"},{"name":"Boxjs.png","url":"https://raw.githubusercontent.com/budaobu/Rules/master/Imgs/BOXJS.png"}],"description":"补充图标-自用"}
+{"name":"My icons","icons":
+[
+    {"name":"OpenAI.png","url":"https://raw.githubusercontent.com/budaobu/Rules/master/Imgs/openai.png"},
+    {"name":"OpenAI-logo.png","url":"https://raw.githubusercontent.com/budaobu/Rules/master/Imgs/openai-logo.png"},
+    {"name":"Boxjs.png","url":"https://raw.githubusercontent.com/budaobu/Rules/master/Imgs/BOXJS.png"}
+],"description":"补充图标-自用"}
