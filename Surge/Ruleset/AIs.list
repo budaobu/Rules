@@ -2,9 +2,9 @@
 # NAME: Other AI 
 # AUTHOR: budaobu
 ######################
-DOMAIN-SUFFIX,udio.com,AI
-DOMAIN-SUFFIX,suno.ai,AI
-DOMAIN-SUFFIX,hume.ai,AI
-DOMAIN-SUFFIX,midjourney.com,AI
-DOMAIN,openai-api.arkoselabs.com,AI
-DOMAIN,openaiapi-site.azureedge.net,AI
+DOMAIN-SUFFIX,udio.com
+DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,hume.ai
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaiapi-site.azureedge.net
