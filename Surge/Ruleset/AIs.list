@@ -1,0 +1,9 @@
+# NAME: Other AI 
+# AUTHOR: budaobu
+
+DOMAIN-SUFFIX,udio.com,AI,extended-matching
+DOMAIN-SUFFIX,suno.ai,AI,extended-matching
+DOMAIN-SUFFIX,hume.ai,AI,extended-matching
+DOMAIN-SUFFIX,midjourney.com,AI,extended-matching
+DOMAIN,openai-api.arkoselabs.com,AI,extended-matching
+DOMAIN,openaiapi-site.azureedge.net,AI,extended-matching
