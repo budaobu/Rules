@@ -1,1 +1,2 @@
-  - DOMAIN-SUFFIX, getgrass.io, DIRECT
+%APPEND&
+- DOMAIN-SUFFIX, getgrass.io, DIRECT
